@@ -34,6 +34,8 @@ The trained Machine Learning model predicts weekly sales and also estimates mont
 - ⚡ OneHotEncoder + StandardScaler Preprocessing
 - 📋 User-Friendly Input Summary
 - 🚀 Real-Time Sales Prediction
+- 🐱‍👤 Dark Mode Dashboard
+- 🤖 Multiple ML Model Comparison
 
 ---
 
@@ -135,17 +137,7 @@ Run the application
 streamlit run app.py
 ```
 
----
 
-## 📊 Future Improvements
-
-- Multiple ML Model Comparison
-- Time Series Forecasting
-- Sales Trend Analysis
-- PDF Report Generation
-- Database Integration
-- Cloud Deployment
-- Dark Mode Dashboard
 
 ---
 
@@ -154,7 +146,7 @@ streamlit run app.py
 **Krish Makwana**
 
 - GitHub: https://github.com/KrishMakwana28
-- LinkedIn: Add your LinkedIn profile here
+- LinkedIn: https://www.linkedin.com/in/krish-makwana-58ab64374/
 
 ---
 
