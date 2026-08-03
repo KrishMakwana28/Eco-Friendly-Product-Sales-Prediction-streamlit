@@ -50,6 +50,8 @@ Eco-Friendly-Product-Sales-Prediction/
 ├── README.md
 ├── eco_friendly_product_sales.csv
 └── images/
+    ├── dashboard.png
+    └── prediction.png
 ```
 
 ---
@@ -108,7 +110,7 @@ The model uses the following input variables:
 
 ### Prediction Dashboard
 
-Add another screenshot here.
+![Prediction](images/Predicted.png)
 
 ---
 
