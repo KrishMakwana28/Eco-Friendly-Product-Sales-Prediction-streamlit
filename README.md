@@ -101,7 +101,8 @@ The model uses the following input variables:
 
 ### Home Dashboard
 
-Add a screenshot here after deployment.
+
+![Dashboard](images/Dashboard.png)
 
 ---
 
