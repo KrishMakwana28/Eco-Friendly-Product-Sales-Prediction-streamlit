@@ -4,7 +4,7 @@ An end-to-end Machine Learning project that predicts weekly sales of eco-friendl
 
 ## 🚀 Live Demo
 
-👉 [https://your-app-name.streamlit.app](https://eco-friendly-appuct-sales-prediction-app-gbaxpkfydwxesx7sy7m8u.streamlit.app/)
+👉 https://eco-friendly-appuct-sales-prediction-app-gbaxpkfydwxesx7sy7m8u.streamlit.app/
 
 ---
 
